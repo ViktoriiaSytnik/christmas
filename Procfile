@@ -1,1 +1,1 @@
-web: gunicorn app:new year
+web: gunicorn new year:app
